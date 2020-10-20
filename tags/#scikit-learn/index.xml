@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#scikit-learn on Neha Chaudhary</title>
+    <link>https://neha-2896.github.io/neha_portfolio/tags/#scikit-learn/</link>
+    <description>Recent content in #scikit-learn on Neha Chaudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neha-2896.github.io/neha_portfolio/tags/#scikit-learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DonorsChoose.org Application Screening</title>
+      <link>https://neha-2896.github.io/neha_portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neha-2896.github.io/neha_portfolio/post/project-1/</guid>
+      <description>DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right now, a large number of volunteers is needed to manually screen each submission before it&amp;rsquo;s approved to be posted on the DonorsChoose.org website.
+The goal of the project is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved or not.
+Dataset : https://www.kaggle.com/c/donorschoose-application-screening/data</description>
+    </item>
+    
+  </channel>
+</rss>

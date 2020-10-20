@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#supervised learning on Neha Chaudhary</title>
+    <link>https://neha-2896.github.io/neha_portfolio/tags/#supervised-learning/</link>
+    <description>Recent content in #supervised learning on Neha Chaudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neha-2896.github.io/neha_portfolio/tags/#supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Malware Classification Challenge</title>
+      <link>https://neha-2896.github.io/neha_portfolio/post/project-3/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neha-2896.github.io/neha_portfolio/post/project-3/</guid>
+      <description>The term malware is a contraction of malicious software. Put simply, malware is any piece of software that was written with the intent of doing harm to data, devices or to people. In the past few years, the malware industry has grown very rapidly that, the syndicates invest heavily in technologies to evade traditional protection, forcing the anti-malware groups/communities to build more robust softwares to detect and terminate these attacks. The goal is protecting a computer system from a malware attack is to identify whether a given piece of file/software is a malware.</description>
+    </item>
+    
+    <item>
+      <title>Social Network Graph Link Prediction</title>
+      <link>https://neha-2896.github.io/neha_portfolio/post/project-2/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neha-2896.github.io/neha_portfolio/post/project-2/</guid>
+      <description>The goal of the project is, given a directed social graph, have to predict missing links to recommend users (Link Prediction in graph).
+Dataset : https://www.kaggle.com/c/FacebookRecruiting/data Data contains two columns source and destination edge in graph.
+First map the problem statement to suprevised learning problem. Generated training samples of good and bad links from given directed graph and for each link got some features like no of followers, is he followed back, page rank, katz score, adar index, some svd fetures of adj matrix, some weight features etc.</description>
+    </item>
+    
+    <item>
+      <title>DonorsChoose.org Application Screening</title>
+      <link>https://neha-2896.github.io/neha_portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neha-2896.github.io/neha_portfolio/post/project-1/</guid>
+      <description>DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right now, a large number of volunteers is needed to manually screen each submission before it&amp;rsquo;s approved to be posted on the DonorsChoose.org website.
+The goal of the project is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved or not.
+Dataset : https://www.kaggle.com/c/donorschoose-application-screening/data</description>
+    </item>
+    
+  </channel>
+</rss>

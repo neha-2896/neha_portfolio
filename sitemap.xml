@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/post/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#docker/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#elasticsearch/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#linux/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#python/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#transfer-learning/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/post/project-4/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#supervised-learning/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/post/project-3/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#feature-engineering/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#graph-data/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/post/project-2/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#gradient-boosting/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/tags/#scikit-learn/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/post/project-1/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neha-2896.github.io/neha_portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

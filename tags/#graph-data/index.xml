@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#graph-data on Neha Chaudhary</title>
+    <link>https://neha-2896.github.io/neha_portfolio/tags/#graph-data/</link>
+    <description>Recent content in #graph-data on Neha Chaudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neha-2896.github.io/neha_portfolio/tags/#graph-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Network Graph Link Prediction</title>
+      <link>https://neha-2896.github.io/neha_portfolio/post/project-2/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neha-2896.github.io/neha_portfolio/post/project-2/</guid>
+      <description>The goal of the project is, given a directed social graph, have to predict missing links to recommend users (Link Prediction in graph).
+Dataset : https://www.kaggle.com/c/FacebookRecruiting/data Data contains two columns source and destination edge in graph.
+First map the problem statement to suprevised learning problem. Generated training samples of good and bad links from given directed graph and for each link got some features like no of followers, is he followed back, page rank, katz score, adar index, some svd fetures of adj matrix, some weight features etc.</description>
+    </item>
+    
+  </channel>
+</rss>
